@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>700</order>
+        <published_ref/>
+        <question display_value="Select a operation within UAC">857cbc4f9729e110a56afb200153afd2</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-17 14:17:27</sys_created_on>
+        <sys_id>7dc385079769e110a56afb200153af0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-17 14:17:27</sys_updated_on>
+        <text>Force Finish Halt a task</text>
+        <value>force_finish_halt_a_task</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=7dc385079769e110a56afb200153af0f"/>
+</record_update>
