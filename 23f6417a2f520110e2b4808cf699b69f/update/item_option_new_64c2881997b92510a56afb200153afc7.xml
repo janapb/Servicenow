@@ -25,7 +25,7 @@
         <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>Select the criteria for the task execution command only when you provide the Task name</p>]]></instructions>
+        <instructions/>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -39,13 +39,13 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>select_a_criteria_don_t_provide_for_task_instance_id</name>
-        <order>700</order>
+        <name>formatter5</name>
+        <order>500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Select a criteria(Don't provide for task instance ID)</question_text>
+        <question_text/>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -54,8 +54,8 @@
         <record/>
         <record_producer_table/>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated 
@@ -67,25 +67,25 @@
  */]]></save_script>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>true</show_help>
+        <show_help>false</show_help>
         <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-24 09:14:45</sys_created_on>
-        <sys_id>6445e0c497752110a56afb200153af09</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Select a criteria(Don't provide for task instance ID)</sys_name>
+        <sys_created_on>2023-03-24 09:19:43</sys_created_on>
+        <sys_id>64c2881997b92510a56afb200153afc7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>formatter5</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
-        <sys_update_name>item_option_new_6445e0c497752110a56afb200153af09</sys_update_name>
+        <sys_update_name>item_option_new_64c2881997b92510a56afb200153afc7</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-24 09:20:21</sys_updated_on>
+        <sys_updated_on>2023-03-24 09:20:22</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>12</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -101,22 +101,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=6445e0c497752110a56afb200153af09"/>
-    <fx_price action="delete_multiple" query="id=6445e0c497752110a56afb200153af09"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=64c2881997b92510a56afb200153afc7"/>
+    <fx_price action="delete_multiple" query="id=64c2881997b92510a56afb200153afc7"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>6445e0c497752110a56afb200153af09</id>
+        <id>64c2881997b92510a56afb200153afc7</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-20 14:42:39</sys_created_on>
-        <sys_id>8456608897752110a56afb200153afb0</sys_id>
+        <sys_created_on>2023-03-24 09:19:43</sys_created_on>
+        <sys_id>24c2881997b92510a56afb200153afca</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-20 14:42:39</sys_updated_on>
+        <sys_updated_on>2023-03-24 09:19:43</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -124,16 +124,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>6445e0c497752110a56afb200153af09</id>
+        <id>64c2881997b92510a56afb200153afc7</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-20 14:42:39</sys_created_on>
-        <sys_id>0856608897752110a56afb200153afaf</sys_id>
+        <sys_created_on>2023-03-24 09:19:43</sys_created_on>
+        <sys_id>a8c2881997b92510a56afb200153afc9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-20 14:42:39</sys_updated_on>
+        <sys_updated_on>2023-03-24 09:19:43</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
