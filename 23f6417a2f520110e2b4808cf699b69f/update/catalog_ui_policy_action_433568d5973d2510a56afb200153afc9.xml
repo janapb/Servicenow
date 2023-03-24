@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:6454cd079769e110a56afb200153afbd</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 11:50:21</sys_created_on>
+        <sys_id>433568d5973d2510a56afb200153afc9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>specify_the_date_and_time_for_adhoc_job_execution</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_433568d5973d2510a56afb200153afc9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-24 21:42:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'specify_the_date_and_time_for_adhoc_job_execution' mandatory &amp; visible depending on 'select_a_operation_within_uac'">473568d5973d2510a56afb200153afc7</ui_policy>
+        <variable>specify_the_date_and_time_for_adhoc_job_execution</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
