@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
-        <catalog_variable>IO:dee409479769e110a56afb200153afce</catalog_variable>
+        <catalog_variable>IO:505ef31397316110a56afb200153af8b</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
@@ -9,20 +9,20 @@
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-31 10:47:10</sys_created_on>
-        <sys_id>35e990eb97716110a56afb200153af5e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>specify_the_task_instance_id</sys_name>
+        <sys_created_on>2023-03-31 10:49:52</sys_created_on>
+        <sys_id>518adceb97716110a56afb200153aff9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>provide_the_temporary_name</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_35e990eb97716110a56afb200153af5e</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_518adceb97716110a56afb200153aff9</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-31 10:49:17</sys_updated_on>
+        <sys_updated_on>2023-03-31 10:53:52</sys_updated_on>
         <table/>
-        <ui_policy display_value="UAC UI Policy">f9e990eb97716110a56afb200153af5c</ui_policy>
-        <variable>specify_the_task_instance_id</variable>
+        <ui_policy display_value="Make 'provide_the_temporary_name' hidden depending on 'select_a_operation_within_uac'">1d8adceb97716110a56afb200153aff7</ui_policy>
+        <variable>provide_the_temporary_name</variable>
         <variable_set/>
-        <visible>ignore</visible>
+        <visible>false</visible>
     </catalog_ui_policy_action>
 </record_update>
