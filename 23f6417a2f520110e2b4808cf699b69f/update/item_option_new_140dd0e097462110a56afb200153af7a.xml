@@ -39,7 +39,7 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>launch_the_task_with_variables</name>
+        <name>specify_the_run_time_task_variables</name>
         <order>1000</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-04-03 15:15:09</sys_created_on>
+        <sys_created_on>2023-04-03 15:18:43</sys_created_on>
         <sys_id>140dd0e097462110a56afb200153af7a</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Specify the Run Time Task Variables</sys_name>
@@ -82,7 +82,7 @@
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
         <sys_update_name>item_option_new_140dd0e097462110a56afb200153af7a</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-03 15:16:16</sys_updated_on>
+        <sys_updated_on>2023-04-04 21:41:43</sys_updated_on>
         <table/>
         <tooltip/>
         <type>2</type>
