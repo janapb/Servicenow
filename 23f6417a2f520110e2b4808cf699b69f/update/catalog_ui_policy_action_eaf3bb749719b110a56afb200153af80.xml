@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:ad2277f09719b110a56afb200153afe9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 13:16:25</sys_created_on>
+        <sys_id>eaf3bb749719b110a56afb200153af80</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>time_interval_units</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_eaf3bb749719b110a56afb200153af80</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-13 13:30:36</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'time_interval_units' mandatory &amp; visible depending on 'time_style'">9ae3fb349719b110a56afb200153afcd</ui_policy>
+        <variable>time_interval_units</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
