@@ -6,7 +6,7 @@
         <question display_value="Schedule Type">fab717349755b110a56afb200153af35</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-09-13 22:27:35</sys_created_on>
+        <sys_created_on>2023-09-14 10:58:09</sys_created_on>
         <sys_id>bb485b389755b110a56afb200153afa0</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Business Days</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
         <sys_update_name>question_choice_bb485b389755b110a56afb200153afa0</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-09-13 22:29:17</sys_updated_on>
+        <sys_updated_on>2023-09-14 12:00:41</sys_updated_on>
         <text>Business Days</text>
         <value>business_days</value>
     </question_choice>
