@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>tuesday</name>
-        <order>2800</order>
+        <order>4300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-10-06 14:37:21</sys_created_on>
+        <sys_created_on>2023-10-26 10:37:58</sys_created_on>
         <sys_id>0f0ae77497d5b110a56afb200153af5c</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Tuesday</sys_name>
@@ -82,7 +82,7 @@
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
         <sys_update_name>item_option_new_0f0ae77497d5b110a56afb200153af5c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-25 15:58:21</sys_updated_on>
+        <sys_updated_on>2023-10-27 11:13:06</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
