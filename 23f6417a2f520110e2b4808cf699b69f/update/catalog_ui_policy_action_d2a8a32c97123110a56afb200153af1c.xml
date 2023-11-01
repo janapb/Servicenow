@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:8e0457709755b110a56afb200153af17</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 10:51:16</sys_created_on>
+        <sys_id>d2a8a32c97123110a56afb200153af1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>abap_name</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d2a8a32c97123110a56afb200153af1c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-01 11:46:58</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'abap_name' mandatory &amp; visible depending on 'select_a_operation_within_uac'">9ea8a32c97123110a56afb200153af1a</ui_policy>
+        <variable>abap_name</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
