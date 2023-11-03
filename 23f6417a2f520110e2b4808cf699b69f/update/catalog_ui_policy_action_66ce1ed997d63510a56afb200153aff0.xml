@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:e93be4aa970e3110a56afb200153af5a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 13:23:58</sys_created_on>
+        <sys_id>66ce1ed997d63510a56afb200153aff0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uac_user_personal_access_token</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_66ce1ed997d63510a56afb200153aff0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 13:51:28</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Always make 'uac_user_personal_access_token' mandatory ">aece1ed997d63510a56afb200153afee</ui_policy>
+        <variable>uac_user_personal_access_token</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
