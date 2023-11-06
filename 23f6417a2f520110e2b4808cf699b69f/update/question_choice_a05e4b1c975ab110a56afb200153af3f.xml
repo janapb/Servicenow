@@ -6,17 +6,17 @@
         <question display_value="Universal_Event_Monitor">4deb0f14975ab110a56afb200153af13</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-11-06 10:37:30</sys_created_on>
+        <sys_created_on>2023-11-06 10:48:03</sys_created_on>
         <sys_id>a05e4b1c975ab110a56afb200153af3f</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>AWS-STEP-FUNCTION-TASK-CREATION-RQUEST</sys_name>
+        <sys_name>aws_step_function_task_creation_rquest</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
         <sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3f</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-06 10:42:24</sys_updated_on>
-        <text>AWS-STEP-FUNCTION-TASK-CREATION-RQUEST</text>
+        <sys_updated_on>2023-11-06 10:50:24</sys_updated_on>
+        <text>aws_step_function_task_creation_rquest</text>
         <value>aws_step_function_task_creation_rquest</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=a05e4b1c975ab110a56afb200153af3f"/>
