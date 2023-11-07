@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>400</order>
+        <published_ref/>
+        <question display_value="Universal_Event_Monitor">4deb0f14975ab110a56afb200153af13</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 15:52:58</sys_created_on>
+        <sys_id>9047a3ea971e3510a56afb200153afaf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SQL_task_creation_request</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>question_choice_9047a3ea971e3510a56afb200153afaf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-07 15:55:15</sys_updated_on>
+        <text>SQL_task_creation_request</text>
+        <value>sql_task_creation_request</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=9047a3ea971e3510a56afb200153afaf"/>
+</record_update>

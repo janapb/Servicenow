@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-11-06 10:48:07</sys_created_on>
+        <sys_created_on>2023-11-07 15:27:32</sys_created_on>
         <sys_id>a4a5d7f09755b110a56afb200153aff8</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Time in HH:MM format</sys_name>
@@ -82,7 +82,7 @@
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
         <sys_update_name>item_option_new_a4a5d7f09755b110a56afb200153aff8</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-06 10:50:59</sys_updated_on>
+        <sys_updated_on>2023-11-07 15:55:46</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
