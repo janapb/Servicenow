@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>formatter23</name>
-        <order>3100</order>
+        <order>3200</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-11-07 15:27:36</sys_created_on>
+        <sys_created_on>2023-11-08 09:54:05</sys_created_on>
         <sys_id>f7cac9569792b110a56afb200153af56</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>formatter23</sys_name>
@@ -82,7 +82,7 @@
         <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
         <sys_update_name>item_option_new_f7cac9569792b110a56afb200153af56</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-07 15:55:51</sys_updated_on>
+        <sys_updated_on>2023-11-08 11:00:32</sys_updated_on>
         <table/>
         <tooltip/>
         <type>20</type>
