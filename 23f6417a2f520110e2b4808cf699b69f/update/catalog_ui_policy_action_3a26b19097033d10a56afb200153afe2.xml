@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:81077d0797063110a56afb200153afea</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 14:39:40</sys_created_on>
+        <sys_id>3a26b19097033d10a56afb200153afe2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>scheduling_trigger_details</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_3a26b19097033d10a56afb200153afe2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-11 13:41:02</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'scheduling_trigger_details' visible depending on 'schedule_job' &amp; 'select_a_operation_within_uac'">7226b19097033d10a56afb200153afe1</ui_policy>
+        <variable>scheduling_trigger_details</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
