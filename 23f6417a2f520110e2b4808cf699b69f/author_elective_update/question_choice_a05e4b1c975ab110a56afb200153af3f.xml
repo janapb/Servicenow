@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>700</order>
+        <published_ref/>
+        <question display_value="Universal_Event_Monitor">4deb0f14975ab110a56afb200153af13</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-06 10:48:03</sys_created_on>
+        <sys_id>a05e4b1c975ab110a56afb200153af3f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>aws_step_function_task_creation_rquest</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:50:24</sys_updated_on>
+        <text>aws_step_function_task_creation_rquest</text>
+        <value>aws_step_function_task_creation_rquest</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=a05e4b1c975ab110a56afb200153af3f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>question_choice_a05e4b1c975ab110a56afb200153af3f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>700</order><published_ref/><question display_value="Universal_Event_Monitor">4deb0f14975ab110a56afb200153af13</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-06 10:48:03</sys_created_on><sys_id>a05e4b1c975ab110a56afb200153af3f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>aws_step_function_task_creation_rquest</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-06 10:50:24</sys_updated_on><text>aws_step_function_task_creation_rquest</text><value>aws_step_function_task_creation_rquest</value></question_choice><fx_price action="delete_multiple" query="id=a05e4b1c975ab110a56afb200153af3f"/></record_update>]]></payload>
+        <payload_hash>1612419354</payload_hash>
+        <record_name>aws_step_function_task_creation_rquest</record_name>
+        <reverted_from/>
+        <source>c758d1929716b110a56afb200153af54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-06 10:50:24</sys_created_on>
+        <sys_id>d26899929716b110a56afb200153af3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ba4414b390000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:50:24</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>1a6899922e16b11042b00bc84399923e</update_guid>
+        <update_guid_history>1a6899922e16b11042b00bc84399923e:1612419354,5196155e22d2b110d2063c9a9f010d17:-615510054,ae65bfa0619231107f7ccac6712760c2:-1472960952,e826d398859ab110bc013bd7aa3362df:1302345857</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="aws_step_function_task_creation_rquest">02c7e72e971e3510a56afb200153af36</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-07 15:55:16</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>3c0d7ee0d5724d85988692e1bd395dc9</sys_id>
+        <sys_metadata>a05e4b1c975ab110a56afb200153af3f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aws_step_function_task_creation_rquest</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent display_value="SAP Universal Event Monitor">4deb0f14975ab110a56afb200153af13</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3f</sys_update_name>
+        <sys_update_version display_value="question_choice_a05e4b1c975ab110a56afb200153af3f">d26899929716b110a56afb200153af3f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-07 15:55:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

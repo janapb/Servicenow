@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:53b485479769e110a56afb200153af06</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 12:25:32</sys_created_on>
+        <sys_id>6a611add97563510a56afb200153afc7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>specify_the_task_name</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_6a611add97563510a56afb200153afc7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 12:35:53</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'specify_the_task_name' hidden depending on 'select_a_operation_within_uac'">a2611add97563510a56afb200153afc6</ui_policy>
+        <variable>specify_the_task_name</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_6a611add97563510a56afb200153afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:53b485479769e110a56afb200153af06</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-03 12:25:32</sys_created_on><sys_id>6a611add97563510a56afb200153afc7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>specify_the_task_name</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_6a611add97563510a56afb200153afc7</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-03 12:35:53</sys_updated_on><table/><ui_policy display_value="Make 'specify_the_task_name' hidden depending on 'select_a_operation_within_uac'">a2611add97563510a56afb200153afc6</ui_policy><variable>specify_the_task_name</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1597654870</payload_hash>
+        <record_name>specify_the_task_name</record_name>
+        <reverted_from/>
+        <source>67b3d6d197963510a56afb200153afe8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-03 12:35:53</sys_created_on>
+        <sys_id>02c35ed197963510a56afb200153afb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b952ec8ab0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 12:35:53</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>46c35ed14b9635106309395b93942eaf</update_guid>
+        <update_guid_history>46c35ed14b9635106309395b93942eaf:1597654870,02c35ed1da9635100a5029d60e5957ad:-228116148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="specify_the_task_name">9ef8da9d97963510a56afb200153afb2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-03 12:58:34</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>42f62c3fb92644ec9439e002e2e40110</sys_id>
+        <sys_metadata>6a611add97563510a56afb200153afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>specify_the_task_name</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_6a611add97563510a56afb200153afc7</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_6a611add97563510a56afb200153afc7">02c35ed197963510a56afb200153afb0</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 12:58:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

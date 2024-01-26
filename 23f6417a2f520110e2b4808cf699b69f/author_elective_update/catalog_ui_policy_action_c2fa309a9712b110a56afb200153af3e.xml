@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:c5c4dbb09755b110a56afb200153afa9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-06 08:41:46</sys_created_on>
+        <sys_id>c2fa309a9712b110a56afb200153af3e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uac_trigger_name</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c2fa309a9712b110a56afb200153af3e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:12:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'uac_trigger_name' hidden depending on 'schedule_job'">0efa309a9712b110a56afb200153af3c</ui_policy>
+        <variable>uac_trigger_name</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_c2fa309a9712b110a56afb200153af3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:c5c4dbb09755b110a56afb200153afa9</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-06 08:41:46</sys_created_on><sys_id>c2fa309a9712b110a56afb200153af3e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>uac_trigger_name</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_c2fa309a9712b110a56afb200153af3e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-06 10:12:39</sys_updated_on><table/><ui_policy display_value="Make 'uac_trigger_name' hidden depending on 'schedule_job'">0efa309a9712b110a56afb200153af3c</ui_policy><variable>uac_trigger_name</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1182153654</payload_hash>
+        <record_name>uac_trigger_name</record_name>
+        <reverted_from/>
+        <source>5bbfcd9e9792b110a56afb200153af33</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-06 10:12:39</sys_created_on>
+        <sys_id>51cfc1de9792b110a56afb200153af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ba41eba460000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:12:39</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>95cfc1de6692b110d7d8b3917b4eb59a</update_guid>
+        <update_guid_history>95cfc1de6692b110d7d8b3917b4eb59a:-1182153654,51cfc1de9c92b110cb934c91ce10a798:158856972</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="uac_trigger_name">2e869d1e97d2b110a56afb200153af7b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-06 10:42:13</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>2f546b607a4d4cf2a437336532662699</sys_id>
+        <sys_metadata>c2fa309a9712b110a56afb200153af3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>uac_trigger_name</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_c2fa309a9712b110a56afb200153af3e</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_c2fa309a9712b110a56afb200153af3e">51cfc1de9792b110a56afb200153af9b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:42:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:26c1bbf497d5b110a56afb200153afb2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 12:44:44</sys_created_on>
+        <sys_id>77c5525997963510a56afb200153afa8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>time_interval</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_77c5525997963510a56afb200153afa8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 12:58:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'time_interval' non-mandatory &amp; hidden depending on 'time_style' &amp; 'select_a_operation_within_uac'">bfc5525997963510a56afb200153afa6</ui_policy>
+        <variable>time_interval</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_77c5525997963510a56afb200153afa8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:26c1bbf497d5b110a56afb200153afb2</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-03 12:44:44</sys_created_on><sys_id>77c5525997963510a56afb200153afa8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>time_interval</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_77c5525997963510a56afb200153afa8</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-03 12:58:40</sys_updated_on><table/><ui_policy display_value="Make 'time_interval' non-mandatory &amp; hidden depending on 'time_style' &amp; 'select_a_operation_within_uac'">bfc5525997963510a56afb200153afa6</ui_policy><variable>time_interval</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-895084733</payload_hash>
+        <record_name>time_interval</record_name>
+        <reverted_from/>
+        <source>e9f85a9d97963510a56afb200153af52</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-03 12:58:40</sys_created_on>
+        <sys_id>4809de9d97963510a56afb200153af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b9543a5e90000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 12:58:40</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>8c09de9de9963510a3458cb83249b438</update_guid>
+        <update_guid_history>8c09de9de9963510a3458cb83249b438:-895084733,4809de9dc6963510769dda378f8a2b36:-1426597203</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="time_interval">ef3ed65997d63510a56afb200153af99</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-03 13:21:34</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>28ad16989f1e4a82b5482cd43258aff1</sys_id>
+        <sys_metadata>77c5525997963510a56afb200153afa8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>time_interval</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_77c5525997963510a56afb200153afa8</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_77c5525997963510a56afb200153afa8">4809de9d97963510a56afb200153af39</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 13:21:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

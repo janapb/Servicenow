@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ca4195322f920110e2b4808cf699b6da" label="demo" max_length="40" name="x_451607_uac_demo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Account Group" max_length="40" name="account_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>
+        <element label="House_Number" max_length="40" name="house_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Postal Code" max_length="40" name="postal_code" type="integer"/>
+        <element label="Region" max_length="40" name="region" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Search_Terms" max_length="40" name="search_terms" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Street" max_length="40" name="street" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Transportation Zone" max_length="40" name="transportation_zone" type="string"/>
+    </element>
+</database>

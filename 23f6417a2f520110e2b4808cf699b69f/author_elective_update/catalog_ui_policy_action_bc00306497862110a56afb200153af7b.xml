@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:3f6d58e097462110a56afb200153aff3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 14:57:41</sys_created_on>
+        <sys_id>bc00306497862110a56afb200153af7b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>launch_task_with_variables</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bc00306497862110a56afb200153af7b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-03 15:07:54</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'launch_task_with_variables' mandatory &amp; visible depending on 'select_a_operation_within_uac'">f400306497862110a56afb200153af7a</ui_policy>
+        <variable>launch_task_with_variables</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_bc00306497862110a56afb200153af7b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:3f6d58e097462110a56afb200153aff3</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-03 14:57:41</sys_created_on><sys_id>bc00306497862110a56afb200153af7b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>launch_task_with_variables</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_bc00306497862110a56afb200153af7b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-03 15:07:54</sys_updated_on><table/><ui_policy display_value="Make 'launch_task_with_variables' mandatory &amp; visible depending on 'select_a_operation_within_uac'">f400306497862110a56afb200153af7a</ui_policy><variable>launch_task_with_variables</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1890326914</payload_hash>
+        <record_name>launch_task_with_variables</record_name>
+        <reverted_from/>
+        <source>b552b0e497862110a56afb200153afd3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-03 15:07:54</sys_created_on>
+        <sys_id>925234e497862110a56afb200153af2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18747a90f8e0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-03 15:07:54</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>1a5234e4bb8621107bc445b15d62ef2e</update_guid>
+        <update_guid_history>1a5234e4bb8621107bc445b15d62ef2e:-1890326914,d25234e4ab86211052295049e2df702c:1782282356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="launch_task_with_variables">b334786897862110a56afb200153af4c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-03 15:16:12</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>9b6326b1b61d41bfb1326698fd941da9</sys_id>
+        <sys_metadata>bc00306497862110a56afb200153af7b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>launch_task_with_variables</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_bc00306497862110a56afb200153af7b</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_bc00306497862110a56afb200153af7b">925234e497862110a56afb200153af2f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-03 15:16:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

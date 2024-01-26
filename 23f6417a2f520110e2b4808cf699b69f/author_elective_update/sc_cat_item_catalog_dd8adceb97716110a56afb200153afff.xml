@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 10:49:52</sys_created_on>
+        <sys_id>dd8adceb97716110a56afb200153afff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.UAC</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dd8adceb97716110a56afb200153afff</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 10:53:52</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>sc_cat_item_catalog_dd8adceb97716110a56afb200153afff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-31 10:49:52</sys_created_on><sys_id>dd8adceb97716110a56afb200153afff</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.UAC</sys_name><sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>sc_cat_item_catalog_dd8adceb97716110a56afb200153afff</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-31 10:53:52</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>993007817</payload_hash>
+        <record_name>Service Catalog.UAC</record_name>
+        <reverted_from/>
+        <source>38add0ef97716110a56afb200153af2a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-31 11:03:31</sys_created_on>
+        <sys_id>11ad14ef97716110a56afb200153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18737563c920000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 11:03:31</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>55ad14efcd7161107fbd58fb2c51ca76</update_guid>
+        <update_guid_history>55ad14efcd7161107fbd58fb2c51ca76:993007817,807b9c2fa8716110904998873a0a4a89:1041327677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.UAC">d9ad14ef97716110a56afb200153af7e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-31 11:03:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>01fd379f2c9f416c850dfafa7ada7810</sys_id>
+        <sys_metadata>dd8adceb97716110a56afb200153afff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.UAC</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent display_value="UAC">d27f6be297a5a110a56afb200153af85</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_dd8adceb97716110a56afb200153afff</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_dd8adceb97716110a56afb200153afff">11ad14ef97716110a56afb200153af77</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-31 11:03:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

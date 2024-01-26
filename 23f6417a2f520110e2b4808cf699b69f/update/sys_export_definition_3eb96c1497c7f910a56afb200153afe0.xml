@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_export_definition">
+    <sys_export_definition action="INSERT_OR_UPDATE">
+        <field_list>short_description,active,category,name,roles,sc_catalogs,price,type,sys_updated_on,access_type,sys_scope,sc_template,availability,billable,custom_cart,checked_out,sys_class_name,mobile_picture,mobile_picture_type,cost,sys_created_on,sys_created_by,sc_ic_item_staging,delivery_plan_script,delivery_time,description,sys_name,display_price_property,entitlement_script,delivery_plan,show_variable_help_on_load,flow_designer_flow,fulfillment_automation_level,group,no_cart_v2,no_wishlist_v2,no_attachment_v2,no_delivery_time_v2,no_quantity_v2,hide_sp,mobile_hide_price,icon,ignore_price,image,list_price,location,mandatory_attachment,meta,model,no_cart,no_order,no_order_now,no_proceed_checkout,no_quantity,no_search,omit_price,order,ordered_item_link,owner,sys_package,picture,preview,sys_policy,published_ref,sc_ic_version,recurring_price,recurring_frequency,request_method,start_closed,state,sys_id,sys_tags,taxonomy_topic,template,sys_update_name,sys_updated_by,sys_mod_count,use_sc_layout,vendor,visible_standalone,visible_bundle,visible_guide,workflow,ref_sc_cat_item_producer.allow_edit,ref_pc_product_cat_item.auto_created,ref_std_change_record_producer.available_in_ui,ref_sc_cat_item_producer.can_cancel,ref_sc_cat_item_guide.cascade,ref_std_change_record_producer.closed_change_count,ref_std_change_record_producer.color,ref_sc_cat_item_content.content_type,ref_std_change_record_producer.current_version,ref_pc_product_cat_item.features,ref_sc_cat_item_producer_service.fulfillment_user,ref_sc_cat_item_content.kb_article,ref_sc_cat_item_content.module,ref_sc_cat_item_service.number,ref_sc_cat_item_guide.order_to_cart,ref_std_change_record_producer.percent_successful,ref_sc_cat_item_producer.post_insert_script,ref_sc_cat_item_producer_service.processing_workflow,ref_pc_product_cat_item.product_id,ref_sc_cat_item_producer.redirect_url,ref_std_change_record_producer.retired,ref_sc_cat_item_producer.save_options,ref_sc_cat_item_producer.save_script,ref_sc_cat_item_guide.script,ref_sc_cat_item_producer.script,ref_sc_cat_item_service.cmdb_ci_service,ref_sc_cat_item_guide.include_items,ref_pc_product_cat_item.specs,ref_sc_cat_item_producer_service.submission_message,ref_sc_cat_item_producer.table_name,ref_sc_cat_item_content.target,ref_sc_cat_item_guide.two_step,ref_std_change_record_producer.unsuccessful_change_count,ref_pc_product_cat_item.upc,ref_sc_cat_item_content.url,ref_sc_cat_item_guide.validator,ref_pc_product_cat_item.vendor_catalog_item,ref_sc_cat_item_producer.view,ref_sc_cat_item_wizard.expert</field_list>
+        <filter table="sc_cat_item">name=UAC^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="UAC"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>service_catalog</name>
+        <sys_class_name>sys_export_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 09:07:03</sys_created_on>
+        <sys_id>3eb96c1497c7f910a56afb200153afe0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>service_catalog</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_export_definition_3eb96c1497c7f910a56afb200153afe0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 14:37:11</sys_updated_on>
+        <table_name>sc_cat_item</table_name>
+        <view display_value="Exp_d3eb96c1497c7f910a56afb200153afe0" name="exp_d3eb96c1497c7f910a56afb200153afe0">e20a6c1497c7f910a56afb200153af52</view>
+    </sys_export_definition>
+</record_update>

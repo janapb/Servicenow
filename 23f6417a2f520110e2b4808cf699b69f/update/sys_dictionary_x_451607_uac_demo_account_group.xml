@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-21 11:02:47</sys_created_on>
-        <sys_id>1e41d5322f920110e2b4808cf699b645</sys_id>
         <sys_name>Account Group</sys_name>
         <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
         <sys_policy/>
