@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:6454cd079769e110a56afb200153afbd</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 19:17:57</sys_created_on>
+        <sys_id>d0ac5db8971e3110a56afb200153af7e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>specify_the_date_and_time_for_adhoc_job_execution</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d0ac5db8971e3110a56afb200153af7e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-01 19:25:47</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'specify_the_date_and_time_for_adhoc_job_execution' hidden depending on 'select_a_operation_within_uac'">1cac5db8971e3110a56afb200153af7c</ui_policy>
+        <variable>specify_the_date_and_time_for_adhoc_job_execution</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_d0ac5db8971e3110a56afb200153af7e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:6454cd079769e110a56afb200153afbd</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-01 19:17:57</sys_created_on><sys_id>d0ac5db8971e3110a56afb200153af7e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>specify_the_date_and_time_for_adhoc_job_execution</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_d0ac5db8971e3110a56afb200153af7e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-01 19:25:47</sys_updated_on><table/><ui_policy display_value="Make 'specify_the_date_and_time_for_adhoc_job_execution' hidden depending on 'select_a_operation_within_uac'">1cac5db8971e3110a56afb200153af7c</ui_policy><variable>specify_the_date_and_time_for_adhoc_job_execution</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-328423464</payload_hash>
+        <record_name>specify_the_date_and_time_for_adhoc_job_execution</record_name>
+        <reverted_from/>
+        <source>786e19bc971e3110a56afb200153af67</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-01 19:25:47</sys_created_on>
+        <sys_id>476e5dbc971e3110a56afb200153af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b8c59590a0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-01 19:25:47</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>8b6e5dbc861e311054b4c1ca691e6c44</update_guid>
+        <update_guid_history>8b6e5dbc861e311054b4c1ca691e6c44:-328423464,476e5dbc541e3110a5c17df055f06142:432050061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="specify_the_date_and_time_for_adhoc_job_execution">40c31ad197963510a56afb200153affc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-03 12:35:44</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>132aaa6f64a342c984686f9a43956351</sys_id>
+        <sys_metadata>d0ac5db8971e3110a56afb200153af7e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>specify_the_date_and_time_for_adhoc_job_execution</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_d0ac5db8971e3110a56afb200153af7e</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_d0ac5db8971e3110a56afb200153af7e">476e5dbc971e3110a56afb200153af45</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-03 12:35:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:a4a5d7f09755b110a56afb200153aff8</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 11:20:23</sys_created_on>
+        <sys_id>992c59c897d23110a56afb200153af1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>time_in_hh_mm_format</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_992c59c897d23110a56afb200153af1c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-30 11:26:31</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'time_in_hh_mm_format' hidden depending on 'schedule_job'">d12c59c897d23110a56afb200153af1b</ui_policy>
+        <variable>time_in_hh_mm_format</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_992c59c897d23110a56afb200153af1c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:a4a5d7f09755b110a56afb200153aff8</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-30 11:20:23</sys_created_on><sys_id>992c59c897d23110a56afb200153af1c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>time_in_hh_mm_format</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_992c59c897d23110a56afb200153af1c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-30 11:26:31</sys_updated_on><table/><ui_policy display_value="Make 'time_in_hh_mm_format' hidden depending on 'schedule_job'">d12c59c897d23110a56afb200153af1b</ui_policy><variable>time_in_hh_mm_format</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-285569899</payload_hash>
+        <record_name>time_in_hh_mm_format</record_name>
+        <reverted_from/>
+        <source>388d918c97d23110a56afb200153af95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-30 11:26:31</sys_created_on>
+        <sys_id>8f8d198c97d23110a56afb200153af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b8055d9840000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-30 11:26:31</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>c38d198c3ad2311086d6277cfd513b9e</update_guid>
+        <update_guid_history>c38d198c3ad2311086d6277cfd513b9e:-285569899,8f8d198c66d231106eecf02ed626ac9b:-900602966</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="time_in_hh_mm_format">02c5031c971ab110a56afb200153af88</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-31 13:40:24</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>049b85535b9640da80a6d3ec38748d44</sys_id>
+        <sys_metadata>992c59c897d23110a56afb200153af1c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>time_in_hh_mm_format</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_992c59c897d23110a56afb200153af1c</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_992c59c897d23110a56afb200153af1c">8f8d198c97d23110a56afb200153af9e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-31 13:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

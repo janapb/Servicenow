@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>sc_req_item</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="sc_req_item">cat_item=c1246ebf97bf3d50a56afb200153af4f^EQ<item display_table="sc_cat_item" display_value="Huawei Infra" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="c1246ebf97bf3d50a56afb200153af4f"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>WebhookOnRITMCreate</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+  // Create a RESTMessageV2 to send the HTTP request
+  var restMessage = new sn_ws.RESTMessageV2();
+  restMessage.setHttpMethod('POST');  // or 'GET' or any other HTTP method
+  var url="https://eufrankfurt.stonebranchdev.cloud/resources/universalevent/push/snow_event_ritm?access_token=ucp_3Sp0ZLzlGpr8Z0zLVdevTTin0fphEwJwF0lw5XrN";
+  restMessage.setEndpoint(url);
+  restMessage.setRequestHeader('Content-Type', 'application/json');
+
+  // Set the request payload (replace this with your desired payload)
+  var payload = {
+    ritmNumber: current.getValue('number'),
+    // Add other data you want to include in the payload
+  };
+  restMessage.setRequestBody(JSON.stringify(payload));
+
+  // Execute the REST message
+  var response = restMessage.execute();
+  var httpResponseStatus = response.getStatusCode();
+  
+  // Handle the response as needed
+  if (httpResponseStatus == 200) {
+    gs.info('Webhook successfully sent.');
+  } else {
+    gs.error('Webhook failed. HTTP Status: ' + httpResponseStatus + ', Response: ' + response.getBody());
+  }
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 13:23:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>99ad9b2497ebf114a56afb200153af44</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>WebhookOnRITMCreate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_script_99ad9b2497ebf114a56afb200153af44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-24 22:23:37</sys_updated_on>
+        <template>stage=awaiting_delivery^EQ</template>
+        <when>async_always</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=99ad9b2497ebf114a56afb200153af44"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>exp_dtmpsys_hub_flow_designer_co_templateadmin</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 14:43:13</sys_created_on>
+        <sys_id>7ef6f19097033d10a56afb200153af63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exp_dtmpsys_hub_flow_designer_co_templateadmin</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_ui_view_7ef6f19097033d10a56afb200153af63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 14:43:13</sys_updated_on>
+        <title>Exp_dtmpsys_hub_flow_designer_co_templateadmin</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

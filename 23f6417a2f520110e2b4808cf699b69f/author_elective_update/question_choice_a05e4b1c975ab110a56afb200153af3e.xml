@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>600</order>
+        <published_ref/>
+        <question display_value="Universal_Event_Monitor">4deb0f14975ab110a56afb200153af13</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-06 10:48:03</sys_created_on>
+        <sys_id>a05e4b1c975ab110a56afb200153af3e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>azure_synapse_task_creation_request</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:50:23</sys_updated_on>
+        <text>azure_synapse_task_creation_request</text>
+        <value>azure_synapse_task_creation_request</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=a05e4b1c975ab110a56afb200153af3e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>question_choice_a05e4b1c975ab110a56afb200153af3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>600</order><published_ref/><question display_value="Universal_Event_Monitor">4deb0f14975ab110a56afb200153af13</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-06 10:48:03</sys_created_on><sys_id>a05e4b1c975ab110a56afb200153af3e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>azure_synapse_task_creation_request</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-06 10:50:23</sys_updated_on><text>azure_synapse_task_creation_request</text><value>azure_synapse_task_creation_request</value></question_choice><fx_price action="delete_multiple" query="id=a05e4b1c975ab110a56afb200153af3e"/></record_update>]]></payload>
+        <payload_hash>-907665114</payload_hash>
+        <record_name>azure_synapse_task_creation_request</record_name>
+        <reverted_from/>
+        <source>c758d1929716b110a56afb200153af54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-06 10:50:23</sys_created_on>
+        <sys_id>926859929716b110a56afb200153aff0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ba44148980000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:50:23</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>d6685992f416b11009de71447a9cc4ef</update_guid>
+        <update_guid_history>d6685992f416b11009de71447a9cc4ef:-907665114,8d96d15e3ed2b11081f8d61a8cb6f7ce:674470302,0f6533e0d39231104e00d18c3ac6b26f:-1170770846,2826d398529ab1105ef3dc6e75538fde:-1432692298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="azure_synapse_task_creation_request">8ac7e72e971e3510a56afb200153af30</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-07 15:55:16</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>072c8a6e000e4b3e8196d23e360f2164</sys_id>
+        <sys_metadata>a05e4b1c975ab110a56afb200153af3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>azure_synapse_task_creation_request</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent display_value="SAP Universal Event Monitor">4deb0f14975ab110a56afb200153af13</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>question_choice_a05e4b1c975ab110a56afb200153af3e</sys_update_name>
+        <sys_update_version display_value="question_choice_a05e4b1c975ab110a56afb200153af3e">926859929716b110a56afb200153aff0</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-07 15:55:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sc_cat_item" version="2" view="exp_dtmpsc_cat_itemadmin">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>roles</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sc_catalogs</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>price</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>access_type</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_scope</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sc_template</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>availability</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billable</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>custom_cart</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>checked_out</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mobile_picture</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mobile_picture_type</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cost</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sc_ic_item_staging</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>delivery_plan_script</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>delivery_time</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_name</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>display_price_property</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>entitlement_script</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>delivery_plan</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>show_variable_help_on_load</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>flow_designer_flow</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fulfillment_automation_level</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>group</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_cart_v2</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_wishlist_v2</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_attachment_v2</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_delivery_time_v2</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_quantity_v2</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hide_sp</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mobile_hide_price</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>40</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>icon</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>41</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ignore_price</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>42</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>image</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>43</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>list_price</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>44</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>45</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mandatory_attachment</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>46</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>meta</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>47</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>48</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_cart</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>49</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_order</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>50</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_order_now</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>51</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_proceed_checkout</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>52</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_quantity</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>53</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>no_search</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>54</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>omit_price</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>55</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>56</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ordered_item_link</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>57</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owner</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>58</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_package</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>59</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>picture</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>60</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>preview</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>61</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_policy</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>62</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>published_ref</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>63</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sc_ic_version</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>64</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>recurring_price</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>65</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>recurring_frequency</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>66</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_method</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>67</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_closed</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>68</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>69</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_id</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>70</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>71</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>taxonomy_topic</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>72</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>template</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>73</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_update_name</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>74</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>75</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>76</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>use_sc_layout</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>77</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vendor</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>78</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>visible_standalone</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>79</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>visible_bundle</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>80</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>visible_guide</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>81</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>workflow</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>82</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.allow_edit</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>83</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_pc_product_cat_item.auto_created</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>84</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.available_in_ui</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>85</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.can_cancel</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>86</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_guide.cascade</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>87</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.closed_change_count</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>88</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.color</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>89</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_content.content_type</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>90</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.current_version</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>91</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_pc_product_cat_item.features</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>92</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer_service.fulfillment_user</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>93</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_content.kb_article</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>94</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_content.module</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>95</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_service.number</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>96</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_guide.order_to_cart</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>97</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.percent_successful</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>98</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.post_insert_script</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>99</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer_service.processing_workflow</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>100</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_pc_product_cat_item.product_id</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>101</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.redirect_url</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>102</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.retired</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>103</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.save_options</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>104</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.save_script</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>105</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_guide.script</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>106</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.script</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>107</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_service.cmdb_ci_service</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>108</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_guide.include_items</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>109</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_pc_product_cat_item.specs</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>110</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer_service.submission_message</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>111</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.table_name</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>112</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_content.target</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>113</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_guide.two_step</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>114</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2f54399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_std_change_record_producer.unsuccessful_change_count</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>115</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>af54399c97cff910a56afb200153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_pc_product_cat_item.upc</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>116</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2354399c97cff910a56afb200153afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_content.url</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>117</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a354399c97cff910a56afb200153afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_guide.validator</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>118</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2754399c97cff910a56afb200153afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_pc_product_cat_item.vendor_catalog_item</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>119</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>a754399c97cff910a56afb200153afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_producer.view</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>120</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>2b54399c97cff910a56afb200153afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ref_sc_cat_item_wizard.expert</element>
+            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="e0f9ec9c9703f910a56afb200153af77">a354399c97cff910a56afb200153af7a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>121</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_id>ab54399c97cff910a56afb200153afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sc_cat_item</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:31:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a354399c97cff910a56afb200153af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cat_item</sys_name>
+            <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+            <sys_update_name>sys_ui_list_sc_cat_item_exp_dtmpsc_cat_itemadmin</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:31:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Exp_dtmpsc_cat_itemadmin" name="exp_dtmpsc_cat_itemadmin">e0f9ec9c9703f910a56afb200153af77</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

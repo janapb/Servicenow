@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-08 13:47:35</sys_created_on>
+        <sys_id>a52458c797dab510a56afb200153afa5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Services.UAC</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sc_cat_item_category_a52458c797dab510a56afb200153afa5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-08 13:52:08</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>sc_cat_item_category_a52458c797dab510a56afb200153afa5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-08 13:47:35</sys_created_on><sys_id>a52458c797dab510a56afb200153afa5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Services.UAC</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>sc_cat_item_category_a52458c797dab510a56afb200153afa5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-08 13:52:08</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>974443669</payload_hash>
+        <record_name>Services.UAC</record_name>
+        <reverted_from/>
+        <source>2bdfe26b97deb910a56afb200153afb8</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-10 14:25:05</sys_created_on>
+        <sys_id>9eefaa6b97deb910a56afb200153af47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bb99f49260000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-10 14:25:05</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>d2efaa6b86deb9101f1d9ad222edb247</update_guid>
+        <update_guid_history>d2efaa6b86deb9101f1d9ad222edb247:974443669,8c35d84b3ddab5105b3d94c747a3caf3:-1680395383</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.UAC">92efaa6b97deb910a56afb200153af4c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-10 14:25:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>10269aadce824c8581fb6f029eb4b1d1</sys_id>
+        <sys_metadata>a52458c797dab510a56afb200153afa5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.UAC</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a52458c797dab510a56afb200153afa5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a52458c797dab510a56afb200153afa5">9eefaa6b97deb910a56afb200153af47</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-10 14:25:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

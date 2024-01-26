@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:505ef31397316110a56afb200153af8b</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-12 20:07:41</sys_created_on>
+        <sys_id>b67a94809733f110a56afb200153af75</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>provide_the_temporary_name</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b67a94809733f110a56afb200153af75</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-12 20:08:47</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'provide_the_temporary_name' hidden depending on 'select_a_operation_within_uac'">fe7a94809733f110a56afb200153af73</ui_policy>
+        <variable>provide_the_temporary_name</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

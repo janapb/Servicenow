@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:82441f709755b110a56afb200153afa7</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-06 10:48:12</sys_created_on>
+        <sys_id>d6e715529716b110a56afb200153afee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sap_batch_user</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d6e715529716b110a56afb200153afee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:50:19</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'sap_batch_user' visible depending on 'select_a_operation_within_uac'">12e715529716b110a56afb200153afed</ui_policy>
+        <variable>sap_batch_user</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_d6e715529716b110a56afb200153afee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:82441f709755b110a56afb200153afa7</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-06 10:48:12</sys_created_on><sys_id>d6e715529716b110a56afb200153afee</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sap_batch_user</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_d6e715529716b110a56afb200153afee</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-06 10:50:19</sys_updated_on><table/><ui_policy display_value="Make 'sap_batch_user' visible depending on 'select_a_operation_within_uac'">12e715529716b110a56afb200153afed</ui_policy><variable>sap_batch_user</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1257007136</payload_hash>
+        <record_name>sap_batch_user</record_name>
+        <reverted_from/>
+        <source>c758d1929716b110a56afb200153af54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-06 10:50:19</sys_created_on>
+        <sys_id>5168d5929716b110a56afb200153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ba44138330000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-06 10:50:19</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>9568d5929b16b110757c41b39350dbd2</update_guid>
+        <update_guid_history>9568d5929b16b110757c41b39350dbd2:-1257007136,5168d5921f16b110184059dd36cd0ad0:188480481</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sap_batch_user">4bb7232e971e3510a56afb200153afe4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-07 15:55:04</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0955347bbf0141918158ab72be885dc9</sys_id>
+        <sys_metadata>d6e715529716b110a56afb200153afee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sap_batch_user</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_d6e715529716b110a56afb200153afee</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_d6e715529716b110a56afb200153afee">5168d5929716b110a56afb200153afd3</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-07 15:55:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

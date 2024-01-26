@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_451607_uac.WebhookIntegration</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>WebhookIntegration</name>
+        <script><![CDATA[var WebhookIntegration = Class.create();
+
+WebhookIntegration.prototype = {
+  initialize: function() {},
+
+  sendWebhook: function(ritm) {
+    // Your webhook logic here
+    // Use GlideHTTPRequest to make the HTTP request
+    // Example:
+    var ritmNumber = ritm.getValue('number');
+    var payload = {
+      ritmNumber: ritmNumber,
+      // Add other data you want to include in the payload
+    };
+    url="https://atlanta.stonebranchdev.cloud/resources/universalevent/push/snow_event_ritm?access_token=ucp_MB9kkwvSFNCzBJg82uRJDKIgYXpmamKbu2LCKxPA";
+    var request = new GlideHTTPRequest(url);
+    request.setRequestHeader('Content-Type', 'application/json');
+    request.post(JSON.stringify(payload));
+  },
+
+  type: 'WebhookIntegration'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 13:18:53</sys_created_on>
+        <sys_id>d57c1ba097ebf114a56afb200153af17</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WebhookIntegration</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_script_include_d57c1ba097ebf114a56afb200153af17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 13:21:03</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>sys_script_include_d57c1ba097ebf114a56afb200153af17</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_451607_uac.WebhookIntegration&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;WebhookIntegration&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var WebhookIntegration = Class.create();
+
+WebhookIntegration.prototype = {
+  initialize: function() {},
+
+  sendWebhook: function(ritm) {
+    // Your webhook logic here
+    // Use GlideHTTPRequest to make the HTTP request
+    // Example:
+    var ritmNumber = ritm.getValue('number');
+    var payload = {
+      ritmNumber: ritmNumber,
+      // Add other data you want to include in the payload
+    };
+    url="https://atlanta.stonebranchdev.cloud/resources/universalevent/push/snow_event_ritm?access_token=ucp_MB9kkwvSFNCzBJg82uRJDKIgYXpmamKbu2LCKxPA";
+    var request = new GlideHTTPRequest(url);
+    request.setRequestHeader('Content-Type', 'application/json');
+    request.post(JSON.stringify(payload));
+  },
+
+  type: 'WebhookIntegration'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-01-02 13:18:53&lt;/sys_created_on&gt;&lt;sys_id&gt;d57c1ba097ebf114a56afb200153af17&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;WebhookIntegration&lt;/sys_name&gt;&lt;sys_package display_value="UAC" source="x_451607_uac"&gt;23f6417a2f520110e2b4808cf699b69f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="UAC"&gt;23f6417a2f520110e2b4808cf699b69f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d57c1ba097ebf114a56afb200153af17&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-01-02 13:21:03&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-141640950</payload_hash>
+        <record_name>WebhookIntegration</record_name>
+        <reverted_from/>
+        <source>e3f6417a2f520110e2b4808cf699b6a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 13:21:03</sys_created_on>
+        <sys_id>f48d972497ebf114a56afb200153af1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cca55b2540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 13:21:03</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>7c8d97248febf114379636efe52e421d</update_guid>
+        <update_guid_history>7c8d97248febf114379636efe52e421d:-141640950,c90d5f2c1aabf1143534f5b535c69413:3324272</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 14:32:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>0da5a57f80d244149a31ce390eea18a4</sys_id>
+        <sys_metadata>d57c1ba097ebf114a56afb200153af17</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WebhookIntegration</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>sys_script_include_d57c1ba097ebf114a56afb200153af17</sys_update_name>
+        <sys_update_version display_value="sys_script_include_d57c1ba097ebf114a56afb200153af17">f48d972497ebf114a56afb200153af1e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 14:32:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

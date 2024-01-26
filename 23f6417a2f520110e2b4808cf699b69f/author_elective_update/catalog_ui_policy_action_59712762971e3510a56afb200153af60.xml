@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:4deb0f14975ab110a56afb200153af13</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 15:27:38</sys_created_on>
+        <sys_id>59712762971e3510a56afb200153af60</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>universal_event_monitor</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_59712762971e3510a56afb200153af60</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-07 15:55:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'universal_event_monitor' non-mandatory &amp; hidden depending on 'select_a_operation_within_uac'">91712762971e3510a56afb200153af5f</ui_policy>
+        <variable>universal_event_monitor</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_59712762971e3510a56afb200153af60</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:4deb0f14975ab110a56afb200153af13</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 15:27:38</sys_created_on><sys_id>59712762971e3510a56afb200153af60</sys_id><sys_mod_count>1</sys_mod_count><sys_name>universal_event_monitor</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_59712762971e3510a56afb200153af60</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-07 15:55:12</sys_updated_on><table/><ui_policy display_value="Make 'universal_event_monitor' non-mandatory &amp; hidden depending on 'select_a_operation_within_uac'">91712762971e3510a56afb200153af5f</ui_policy><variable>universal_event_monitor</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-291171607</payload_hash>
+        <record_name>universal_event_monitor</record_name>
+        <reverted_from/>
+        <source>eab7232e971e3510a56afb200153af3f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-07 15:55:12</sys_created_on>
+        <sys_id>c1c7672e971e3510a56afb200153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18baa7eb48e0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-07 15:55:12</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>09c7672e1f1e3510dcb8de04b36a5f29</update_guid>
+        <update_guid_history>09c7672e1f1e3510dcb8de04b36a5f29:-291171607,c1c7672eef1e351026ba2cc4f30f7127:1707802882</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="universal_event_monitor">ddcde77697d6b510a56afb200153af99</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-08 10:59:55</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>5fb3a6d60a6e44f3a47cd21ff131f6f9</sys_id>
+        <sys_metadata>59712762971e3510a56afb200153af60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>universal_event_monitor</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_59712762971e3510a56afb200153af60</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_59712762971e3510a56afb200153af60">c1c7672e971e3510a56afb200153af2a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-08 10:59:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

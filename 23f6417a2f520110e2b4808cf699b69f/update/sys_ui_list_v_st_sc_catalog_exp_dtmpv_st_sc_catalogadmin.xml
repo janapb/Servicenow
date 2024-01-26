@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="v_st_sc_catalog" version="2" view="exp_dtmpv_st_sc_catalogadmin">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table</element>
+            <list_id display_value="v_st_sc_catalog" element="NULL" name="v_st_sc_catalog" parent="NULL" relationship="NULL" sys_domain="global" view="3fe2fd9897cff910a56afb200153afe7">b7e2b11c97cff910a56afb200153af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:25:32</sys_created_on>
+            <sys_id>bfe2b11c97cff910a56afb200153af93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:25:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>picture</element>
+            <list_id display_value="v_st_sc_catalog" element="NULL" name="v_st_sc_catalog" parent="NULL" relationship="NULL" sys_domain="global" view="3fe2fd9897cff910a56afb200153afe7">b7e2b11c97cff910a56afb200153af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:25:32</sys_created_on>
+            <sys_id>33e2b11c97cff910a56afb200153af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:25:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="v_st_sc_catalog" element="NULL" name="v_st_sc_catalog" parent="NULL" relationship="NULL" sys_domain="global" view="3fe2fd9897cff910a56afb200153afe7">b7e2b11c97cff910a56afb200153af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:25:32</sys_created_on>
+            <sys_id>b3e2b11c97cff910a56afb200153af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:25:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="v_st_sc_catalog" element="NULL" name="v_st_sc_catalog" parent="NULL" relationship="NULL" sys_domain="global" view="3fe2fd9897cff910a56afb200153afe7">b7e2b11c97cff910a56afb200153af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:25:32</sys_created_on>
+            <sys_id>37e2b11c97cff910a56afb200153af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:25:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>v_st_sc_catalog</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 14:25:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7e2b11c97cff910a56afb200153af93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>v_st_sc_catalog</sys_name>
+            <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+            <sys_update_name>sys_ui_list_v_st_sc_catalog_exp_dtmpv_st_sc_catalogadmin</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 14:25:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Exp_dtmpv_st_sc_catalogadmin" name="exp_dtmpv_st_sc_catalogadmin">3fe2fd9897cff910a56afb200153afe7</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

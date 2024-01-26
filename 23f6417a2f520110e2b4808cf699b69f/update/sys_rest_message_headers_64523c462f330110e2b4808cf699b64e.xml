@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Body</name>
+        <rest_message display_value="Test event monitor">345130822f330110e2b4808cf699b6b0</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 14:33:24</sys_created_on>
+        <sys_id>64523c462f330110e2b4808cf699b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Body</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_rest_message_headers_64523c462f330110e2b4808cf699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 14:33:24</sys_updated_on>
+        <value>{
+   "name": "testevent",
+   
+    "ttl": 60,
+    "attributes": [
+      
+       {
+          "name": "value",
+          "value": "Value2"
+       }
+    ]
+}'</value>
+    </sys_rest_message_headers>
+</record_update>

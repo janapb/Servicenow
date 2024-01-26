@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 22:29:43</sys_created_on>
+        <sys_id>44116bf8978e6110a56afb200153af47</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Resources.UAC</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_44116bf8978e6110a56afb200153af47</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-04 22:37:58</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>sc_cat_item_catalog_44116bf8978e6110a56afb200153af47</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item><sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-04 22:29:43</sys_created_on><sys_id>44116bf8978e6110a56afb200153af47</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Resources.UAC</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>sc_cat_item_catalog_44116bf8978e6110a56afb200153af47</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-04 22:37:58</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1985749547</payload_hash>
+        <record_name>Resources.UAC</record_name>
+        <reverted_from/>
+        <source>b5377ff89719b110a56afb200153af59</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-13 13:30:36</sys_created_on>
+        <sys_id>6237fff89719b110a56afb200153af67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a8ebc8fa80000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-13 13:30:36</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a637fff8c019b1104310e749f7205166</update_guid>
+        <update_guid_history>a637fff8c019b1104310e749f7205166:-1985749547,4df22b7c918e6110d989c1743b6ee000:1499962953</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Resources.UAC">6a37fff89719b110a56afb200153af6e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-13 13:30:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>04df121a182645d185d0ac93700e6999</sys_id>
+        <sys_metadata>44116bf8978e6110a56afb200153af47</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.UAC</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent display_value="UAC">d27f6be297a5a110a56afb200153af85</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_44116bf8978e6110a56afb200153af47</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_44116bf8978e6110a56afb200153af47">6237fff89719b110a56afb200153af67</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-13 13:30:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

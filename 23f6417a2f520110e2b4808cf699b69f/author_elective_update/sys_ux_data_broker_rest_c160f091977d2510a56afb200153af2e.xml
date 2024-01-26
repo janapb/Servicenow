@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_rest">
+    <sys_ux_data_broker_rest action="DELETE">
+        <api_name>x_451607_uac.UAC_Launch_request</api_name>
+        <api_url>http://frankfurt.stonebranchdev.cloud:8080/uc/resources/task?taskname=Test-Linux-Agent2</api_url>
+        <description>Triggers Launch request</description>
+        <http_method>GET</http_method>
+        <mutates_server_data>false</mutates_server_data>
+        <name>UAC_Launch_request</name>
+        <output_schema/>
+        <parameters/>
+        <private>false</private>
+        <props/>
+        <request_body/>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_data_broker_rest</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 12:40:29</sys_created_on>
+        <sys_id>c160f091977d2510a56afb200153af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UAC_Launch_request</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_ux_data_broker_rest_c160f091977d2510a56afb200153af2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 12:40:29</sys_updated_on>
+    </sys_ux_data_broker_rest>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>sys_ux_data_broker_rest_c160f091977d2510a56afb200153af2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_rest"><sys_ux_data_broker_rest action="INSERT_OR_UPDATE"><api_name>x_451607_uac.UAC_Launch_request</api_name><api_url>http://frankfurt.stonebranchdev.cloud:8080/uc/resources/task?taskname=Test-Linux-Agent2</api_url><description>Triggers Launch request</description><http_method>GET</http_method><mutates_server_data>false</mutates_server_data><name>UAC_Launch_request</name><output_schema/><parameters/><private>false</private><props/><request_body/><required_translations>[ ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_data_broker_rest</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-24 12:40:29</sys_created_on><sys_id>c160f091977d2510a56afb200153af2e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UAC_Launch_request</sys_name><sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>sys_ux_data_broker_rest_c160f091977d2510a56afb200153af2e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-24 12:40:29</sys_updated_on></sys_ux_data_broker_rest></record_update>]]></payload>
+        <payload_hash>1958403881</payload_hash>
+        <record_name>UAC_Launch_request</record_name>
+        <reverted_from/>
+        <source>e3f6417a2f520110e2b4808cf699b6a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 12:40:30</sys_created_on>
+        <sys_id>25b0f491977d2510a56afb200153afd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18713a2824b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 12:40:30</sys_updated_on>
+        <type>REST Data Broker</type>
+        <update_guid>6db0f4919a7d25105ff85d803f1a8fd1</update_guid>
+        <update_guid_history>6db0f4919a7d25105ff85d803f1a8fd1:1958403881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 12:41:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_data_broker_rest">sys_ux_data_broker_rest</sys_db_object>
+        <sys_id>0433af1a896149f8870d0b606804be40</sys_id>
+        <sys_metadata>c160f091977d2510a56afb200153af2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UAC_Launch_request</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>sys_ux_data_broker_rest_c160f091977d2510a56afb200153af2e</sys_update_name>
+        <sys_update_version display_value="sys_ux_data_broker_rest_c160f091977d2510a56afb200153af2e">25b0f491977d2510a56afb200153afd2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 12:41:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:a75e0ff49715b110a56afb200153af8e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 13:42:44</sys_created_on>
+        <sys_id>4856439c971ab110a56afb200153afbe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sap_task_info</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4856439c971ab110a56afb200153afbe</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-31 13:53:17</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'sap_task_info' non-mandatory &amp; hidden depending on 'select_a_operation_within_uac'">8056439c971ab110a56afb200153afbd</ui_policy>
+        <variable>sap_task_info</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_4856439c971ab110a56afb200153afbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:a75e0ff49715b110a56afb200153af8e</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-31 13:42:44</sys_created_on><sys_id>4856439c971ab110a56afb200153afbe</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sap_task_info</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_4856439c971ab110a56afb200153afbe</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-31 13:53:17</sys_updated_on><table/><ui_policy display_value="Make 'sap_task_info' non-mandatory &amp; hidden depending on 'select_a_operation_within_uac'">8056439c971ab110a56afb200153afbd</ui_policy><variable>sap_task_info</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1130576941</payload_hash>
+        <record_name>sap_task_info</record_name>
+        <reverted_from/>
+        <source>54b88390975ab110a56afb200153afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-31 13:53:17</sys_created_on>
+        <sys_id>7ab80b90975ab110a56afb200153af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b860293c80000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-31 13:53:17</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>beb80b90945ab1102608fa4d9b8ea012</update_guid>
+        <update_guid_history>beb80b90945ab1102608fa4d9b8ea012:1130576941,7ab80b90215ab110145888cdbef0b210:870826786</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sap_task_info">a6161398979ab110a56afb200153af15</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-31 14:51:42</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>3ea9b4689cce407ea30bba6809f07ce1</sys_id>
+        <sys_metadata>4856439c971ab110a56afb200153afbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sap_task_info</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_4856439c971ab110a56afb200153afbe</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_4856439c971ab110a56afb200153afbe">7ab80b90975ab110a56afb200153af13</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-31 14:51:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

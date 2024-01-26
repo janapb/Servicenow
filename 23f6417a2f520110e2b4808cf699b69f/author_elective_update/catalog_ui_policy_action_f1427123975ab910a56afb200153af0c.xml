@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item>
+        <catalog_variable>IO:7171f7e897523110a56afb200153afb7</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 09:55:49</sys_created_on>
+        <sys_id>f1427123975ab910a56afb200153af0c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>application</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_f1427123975ab910a56afb200153af0c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-10 14:25:03</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'application' mandatory &amp; visible depending on 'select_a_operation_within_uac'">3d427123975ab910a56afb200153af0a</ui_policy>
+        <variable>application</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>catalog_ui_policy_action_f1427123975ab910a56afb200153af0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="UAC">d27f6be297a5a110a56afb200153af85</catalog_item><catalog_variable>IO:7171f7e897523110a56afb200153afb7</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-10 09:55:49</sys_created_on><sys_id>f1427123975ab910a56afb200153af0c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>application</sys_name><sys_package/><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>catalog_ui_policy_action_f1427123975ab910a56afb200153af0c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-10 14:25:03</sys_updated_on><table/><ui_policy display_value="Make 'application' mandatory &amp; visible depending on 'select_a_operation_within_uac'">3d427123975ab910a56afb200153af0a</ui_policy><variable>application</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1468705727</payload_hash>
+        <record_name>application</record_name>
+        <reverted_from/>
+        <source>2bdfe26b97deb910a56afb200153afb8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-10 14:25:03</sys_created_on>
+        <sys_id>f9ef6a6b97deb910a56afb200153af64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bb99f41c40000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-10 14:25:03</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>31ef6a6b1fdeb910d20b5bd366cbad64</update_guid>
+        <update_guid_history>31ef6a6b1fdeb910d20b5bd366cbad64:1468705727,f9ef6a6b22deb9102de5777f8ae07361:-110237790</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="application">1358f5e397273110a56afb200153af96</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-11 13:40:54</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>3beed4e24fec4c24b62244bf720ed464</sys_id>
+        <sys_metadata>f1427123975ab910a56afb200153af0c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>application</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_f1427123975ab910a56afb200153af0c</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_f1427123975ab910a56afb200153af0c">f9ef6a6b97deb910a56afb200153af64</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-11 13:40:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

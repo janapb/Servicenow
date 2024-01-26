@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_export_set">
+    <sys_export_set action="INSERT_OR_UPDATE">
+        <append_timestamp>true</append_timestamp>
+        <export_definition display_value="service_catalog">3eb96c1497c7f910a56afb200153afe0</export_definition>
+        <export_target display_value="UAC_Service_cataloag_ravi_UAC_Hoffenheim">7f3de054970bf910a56afb200153af2a</export_target>
+        <file_name>uac_service_cataloag_ravi.xml</file_name>
+        <format>XML</format>
+        <max_rows/>
+        <name>UAC_Service_cataloag_ravi</name>
+        <sys_class_name>sys_export_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 09:21:03</sys_created_on>
+        <sys_id>de0d6454970bf910a56afb200153aff8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>UAC_Service_cataloag_ravi</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_export_set_de0d6454970bf910a56afb200153aff8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 09:31:50</sys_updated_on>
+        <use_display_value>false</use_display_value>
+        <use_label>false</use_label>
+    </sys_export_set>
+</record_update>

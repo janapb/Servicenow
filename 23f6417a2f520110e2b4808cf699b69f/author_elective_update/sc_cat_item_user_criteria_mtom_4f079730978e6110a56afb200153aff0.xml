@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 21:45:58</sys_created_on>
+        <sys_id>4f079730978e6110a56afb200153aff0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>UAC.Any User</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_4f079730978e6110a56afb200153aff0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-04 22:17:38</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAC">23f6417a2f520110e2b4808cf699b69f</application>
+        <file_path/>
+        <instance_id>79326fe7db1fbf0007072f17d4961965</instance_id>
+        <instance_name>dev92216</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_4f079730978e6110a56afb200153aff0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="UAC">d27f6be297a5a110a56afb200153af85</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-04 21:45:58</sys_created_on><sys_id>4f079730978e6110a56afb200153aff0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>UAC.Any User</sys_name><sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package><sys_policy/><sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_4f079730978e6110a56afb200153aff0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-04 22:17:38</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1929264914</payload_hash>
+        <record_name>UAC.Any User</record_name>
+        <reverted_from/>
+        <source>264e5ff4978e6110a56afb200153af6d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-04 22:17:39</sys_created_on>
+        <sys_id>df4e9ff4978e6110a56afb200153af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1874e58dbc70000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-04 22:17:39</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>574e9ff4728e6110b0ce9e4082fea091</update_guid>
+        <update_guid_history>574e9ff4728e6110b0ce9e4082fea091:-1929264914,8f4e9ff4918e61103f9563c1fea1918e:1981943012</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UAC.Any User">96cfdf78978e6110a56afb200153af3b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-04 22:24:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>119c6d5f1fea48689461437e8ac4f040</sys_id>
+        <sys_metadata>4f079730978e6110a56afb200153aff0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UAC.Any User</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_scope_delete display_value="">03dffd8309e644f695ba29503c24e519</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_4f079730978e6110a56afb200153aff0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_4f079730978e6110a56afb200153aff0">df4e9ff4978e6110a56afb200153af91</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-04 22:24:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

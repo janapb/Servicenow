@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="UAC_SELF_SERVICE">a6647415977d2510a56afb200153afd3</basic_auth_profile>
+        <basic_auth_user/>
+        <description>UAC Self service Web API</description>
+        <name>UAC_Self service_get_task_definition</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>http://frankfurt.stonebranchdev.cloud:8080/uc/resources/task?taskname=Test-Linux-Agent2</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 12:45:51</sys_created_on>
+        <sys_id>ed817891977d2510a56afb200153afa6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>UAC_Self service_get_task_definition</sys_name>
+        <sys_package display_value="UAC" source="x_451607_uac">23f6417a2f520110e2b4808cf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAC">23f6417a2f520110e2b4808cf699b69f</sys_scope>
+        <sys_update_name>sys_rest_message_ed817891977d2510a56afb200153afa6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 13:05:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
